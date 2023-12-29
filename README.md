@@ -11,4 +11,4 @@ Tree Shop is a web-based marketplace where users can browse, select, and purchas
 - **Tree Catalog:** Browse through a wide variety of trees available for purchase.
 - **User Accounts:** Create an account to manage orders and preferences.
 - **Shopping Cart:** Add desired trees to the cart for easy checkout.
-- **Checkout Process:** Securely complete purchases and receive order confirmations.
+- **Admin Panel:** Add new plants for sale.
